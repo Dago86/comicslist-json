@@ -1,0 +1,8 @@
+{
+  "mangas":[
+    {"name": "Devil Man", "number": 1, "max": 40, "completed": false },
+    { "name": "Frerien", "number": 1, "max": 40, "completed": false },
+    { "name": "Chainsaw Man", "number": 1, "max": 40, "completed": false },
+    { "name": "Dragon Quest", "number": 32, "max": 40, "completed": true }
+   ]
+}
